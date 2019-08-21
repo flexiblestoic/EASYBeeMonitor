@@ -33,7 +33,7 @@ The schematics of the hardware available [here](media/EBM_schematics.pdf).
 The firmware needs to be downloaded onto the micro controller. Please alter the code depending on chosen configuration (1) wifi or (2) Sigfox. 
 Please be careful in the versions of the apps/librairies installed as newer versions may break the code.
 
-1. Install [Arduino](arduino.cc)
+1. Install [Arduino](https://arduino.cc)
 2. Install ESP8266 control for Arduino [tutorial](https://dzone.com/articles/programming-the-esp8266-with-the-arduino-ide-in-3)
 3. Install libraries (in Arduino, Tools>Library Manager): DallasTemperature by Miles Burton, OneWire by Jim Studt
 4. We are using the [HX711 libraries](https://github.com/bogde/HX711) by Bogdan Necula
